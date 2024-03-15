@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Shuvaranjan/Shuvaranjan/blob/main/mygithubprofile-ezgif.com-video-to-gif-converter.gif" width=4000 height=550/> </p>
+<p align="center"> <img src="https://github.com/Shuvaranjan/Shuvaranjan/blob/main/mygithubprofile-ezgif.com-video-to-gif-converter.gif" width=4000 height=450/> </p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&random=false&width=435&lines=Hi%2C+There!👋;+Myself+Shuvaranjan+Sarkar%F0%9F%98%8E;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
