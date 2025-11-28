@@ -1,7 +1,7 @@
-![logo](https://github.com/Shuvaranjan/Shuvaranjan/blob/main/github%20banner.png)
+![logo](https://github.com/Shuvaranjan/Shuvaranjan/blob/main/linkedin%20banner3.png?raw=true)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&random=false&width=435&lines=Hey%2C+There!👋;+Myself+Shuvaranjan+Sarkar%F0%9F%98%8E;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&random=false&width=435&lines=Java+FullStack+Developer%F0%9F%98%8E;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Shuvaranjan Sarkar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <hr>
@@ -48,15 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
-  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-
+ 
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -81,9 +73,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
 </p>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvaranjan&show_icons=true&locale=en&layout=compact" alt="shuvaranjan" /></p>
