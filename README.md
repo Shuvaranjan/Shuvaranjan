@@ -75,12 +75,5 @@
   
 </p>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvaranjan&show_icons=true&locale=en&layout=compact" alt="shuvaranjan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvaranjan&show_icons=true&locale=en" alt="shuvaranjan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvaranjan&" alt="shuvaranjan" /></p>
-
-
-<hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F70000&random=false&width=450&lines=Thankyou+!;For+Watching+my+GitHub+Profile" alt="Typing SVG" /></a>
